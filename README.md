@@ -34,6 +34,11 @@ This is a project I undertook independently to enhance my skills in React and Mo
 
 It took me approximately 1 day to build the current version of the site (excluding the integration with the Clients and Cart database).
 
+# Screen of the project actually
+Not available on smartphone because of TailWindCSS problem
+
+https://github.com/SamyOffer/Sneakers_Shop_Deploy_Test/assets/94078861/cc6f0b00-33b0-412d-984c-1cc914acd03a
+
 
 ## 📂 Repository Structure
 
